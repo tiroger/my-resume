@@ -1,0 +1,47 @@
+[
+{
+    "startdate": "1999-01-31",
+    "enddate": "2001-05-31",
+    "title": "Bachelor of Science - Organic Chemistry | Hunter College - City University of New York",
+    "shorttitle": "Education title",
+    "type": "education",
+    "glyph": "education",
+    "description": "<ul><li id='indent'>Synthesized and characterized theoretically significant molecules to expand our understanding of aromaticity</li></ul>"
+},
+{
+  "startdate": "2004-09-30",
+  "enddate": "2011-05-31",
+  "title": "Master of Science and PhD - Molecular Neuroscience | Columbia University Medical Center",
+  "shorttitle": "Education title",
+  "type": "education",
+  "glyph": "education",
+  "description": "<ul><li id='indent'>Characterized a novel role of the amyloid precursor protein (APP) in the pathogenesis of Alzheimer’s disease.</li><li id='indent'>Trained and supervised several undergraduate students.</li></ul>"
+},
+{
+    "startdate": "2011-06-30",
+    "enddate": "2013-06-01",
+    "title": "Postdoctoral Research Fellow | Columbia University Medical Center",
+    "shorttitle": "Other title",
+    "type": "experience",
+    "glyph": "briefcase",
+    "description": "<ul><li id='indent'>Investigated the role of small Rho-GTPases in Alzheimer’s disease, which have also been linked to various cancers</li><li>Contributed to a bioinformatics project for a non-biased approach to identify Alzheimer’s disease associated genes</li><li id='indent'>Generated and characterized transgenic mouse models to investigate the roles of several novel genes in driving Alzheimer’s disease pathology</li><li>Developed various gene editing tools (RNAi, viral vectors) to identify molecular pathways contributing to synaptic dysfunction</li><li>Engineered and characterized various stable cell lines</li><li>Organized journal club sessions for graduate students</li><li>Trained several undergraduate and master’s students</li></ul>"
+},
+{
+    "startdate": "2013-06-30",
+    "enddate": "",
+    "title": "Principal Investigator | Columbia University Medical Center",
+    "shorttitle": "Assistant Professor",
+    "type": "experience",
+    "glyph": "briefcase",
+    "description": "<ul><li id='indent'>Leader of a translational research program focused on identifying novel pathogenic pathways and druggable proteins involved in Alzheimer’s and Huntington’s disease</li><li>Design experiments, review and interpret data, perform quality control, and manage records</li><li>Procure and allocate resources to research projects, including equipment, supplies and funds; recruit, train and supervise staff<li>Manage daily laboratory operations, including scheduling meetings, establishing priorities and assignments, and maintaining staff morale; troubleshoot and resolve technical difficulties and documentation issues related to methods, data and GLP compliance</li><li id='indent'>Draft and review journal and grant manuscripts, SOPs, protocols, and progress reports</li><li id='indent'>Establish and maintain cross-functional institutional and international collaborations</li><li id='indent'>Serve on various advisory committees</li><li id='indent'>Conduct lectures for medical and graduate students; lead various career development workshops</li></ul>"
+},
+{
+   "startdate": "2019-05-31",
+   "enddate": "2019-09-30",
+   "title": "Certificate - Data Analytics and Visualization | Columbia University School of Engineering",
+   "shorttitle": "Education title",
+   "type": "other",
+   "glyph": "stats",
+   "description": "<ul><li id='indent'>E.T.L (Pandas, Numpy, SciPy, BeautifulSoup, Postgres, MongDB), JavaScript, HTML/CSS</li><li>Data visualization (Matplotlib, Plotly, Leaflet, D3, Tableau)</li><li>Machine Learning (Scikit, TensorFlow)</li><li>Big Data (PySpark, EC2, AWS)</li></ul>"
+}
+]

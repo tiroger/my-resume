@@ -1,5 +1,3 @@
-var skills = {
-
 /* Helper functions */
 
 var accentColor = "#69c";
@@ -68,10 +66,7 @@ function addSkills() {
 
 /* Load data and add skills */
 
-
-
 d3.json("/skills", function(error, json) {
-	console.log(json)
 	if (error) return console.warn(error);
 
 	var myarray = []

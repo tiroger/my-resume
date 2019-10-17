@@ -1,4 +1,4 @@
-var margin = parseInt(d3.select("#timeline").style("width")) * 0.50
+var margin = parseInt(d3.select("#timeline").style("width")) * 0.65
 var width = parseInt(d3.select("#timeline").style("width")) - margin;
 var monthNames = [ "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December" ];
 var dataset, x, bar;
@@ -346,7 +346,7 @@ function draw() {
 }
 
 
-d3.json("/timeline").then(function(error, json) {
+d3.json("/timeline", function(error, json) {
 	if (error) return console.warn(error);
 	json.sort(function(a,b) { return( d3.ascending(a.startdate,b.startdate) ) })
 
