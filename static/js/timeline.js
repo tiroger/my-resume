@@ -1,4 +1,4 @@
-var margin = parseInt(d3.select("#timeline").style("width")) * 0.65
+var margin = parseInt(d3.select("#timeline").style("width")) * 0.67
 var width = parseInt(d3.select("#timeline").style("width")) - margin;
 var monthNames = [ "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December" ];
 var dataset, x, bar;

@@ -6,15 +6,17 @@
  	text-rendering: optimizeLegibility !important;
  	-webkit-font-smoothing: antialiased !important;
  	color: #555;
- 	font-weight: 400;
+ 	font-weight: light;
  	width: 100% !important;
  	height: 100% !important;
   margin-top: 50px;
   margin-bottom: 50px;
+  text-align: justify;
+  text-justify: inter-word;
  }
 
  #contactbox {
-     padding: 0px 20px 10px 20px;
+     padding: 10px 20px 10px 20px;
      float:right;
      margin-left: 10px;
      font-size: 1.2em;
@@ -28,9 +30,14 @@
      line-height: 1;
  }
 
- #name, #job-title {
+ #name {
+   font-size: 24px;
+   font-weight: 300;
+ }
+
+ #job-title {
    font-size: 20px;
-   font-weight: bold;
+   font-weight: 300;
  }
 
  #headshot {
