@@ -30,7 +30,7 @@
     "startdate": "2011-06-30",
     "enddate": "2013-06-01",
     "title": "Postdoctoral Research Fellow | Columbia University Medical Center",
-    "shorttitle": "Other title",
+    "shorttitle": "Postdoc",
     "type": "experience",
     "glyph": "star",
     "description": "<ul><li id='indent'>Investigated the role of small Rho-GTPases in Alzheimer’s disease, which have also been linked to various cancers</li><li>Contributed to a bioinformatics project for a non-biased approach to identify Alzheimer’s disease associated genes</li><li id='indent'>Generated and characterized transgenic mouse models to investigate the roles of several novel genes in driving Alzheimer’s disease pathology</li><li>Developed various gene editing tools (RNAi, viral vectors) to identify molecular pathways contributing to synaptic dysfunction</li><li>Engineered and characterized various stable cell lines</li><li>Organized journal club sessions for graduate students</li><li>Trained several undergraduate and master’s students</li></ul>"
@@ -46,11 +46,20 @@
   },
   {
    "startdate": "2019-05-31",
-   "enddate": "2019-10-31",
+   "enddate": "2019-10-01",
    "title": "Certificate - Data Analytics and Visualization | Columbia University School of Engineering",
    "shorttitle": "Education title",
    "type": "other",
    "glyph": "stats",
    "description": "<ul><li id='indent'>Thing A</li><li>Thing B</li><li>Thing C</li></ul>"
- }
+ },
+ {
+   "startdate": "2019-10-01",
+   "enddate": "",
+   "title": "Data Scientist | AnalyticIntell",
+   "shorttitle": "Data Scientist",
+   "type": "experience",
+   "glyph": "star",
+   "description": "<ul><li id='indent'>Furnish executive leadership team with insights, analytics, reports and recommendations enabling effective strategic planning across all business units, distribution channels and product lines.</li><li>Identified, measured and recommended improvement strategies for KPIs across all business areas.</li><li>Developed intricate algorithms based on deep-dive statistical analysis and predictive data modeling that were used to to deepen relationships, strengthen longevity and personalize interactions with customers<li></li></ul>"
+ },
 ]
