@@ -43,5 +43,14 @@
    "type": "other",
    "glyph": "stats",
    "description": "<ul><li id='indent'>E.T.L (Pandas, Numpy, SciPy, BeautifulSoup, Postgres, MongDB), JavaScript, HTML/CSS</li><li>Data visualization (Matplotlib, Plotly, Leaflet, D3, Tableau)</li><li>Machine Learning (Scikit, TensorFlow)</li><li>Big Data (PySpark, EC2, AWS)</li></ul>"
+},
+{
+  "startdate": "2019-10-01",
+  "enddate": "",
+  "title": "Data Scientist | Analytic Intell",
+  "shorttitle": "Data Scientist",
+  "type": "experience",
+  "glyph": "briefcase",
+  "description": "<ul><li id='indent'>Furnish executive leadership team with insights, analytics, reports and recommendations enabling effective strategic planning across all business units, distribution channels and product lines.</li><li>Identified, measured and recommended improvement strategies for KPIs across all business areas.</li><li>Developed intricate algorithms based on deep-dive statistical analysis and predictive data modeling that were used to to deepen relationships, strengthen longevity and personalize interactions with customers</ul>"
 }
 ]
