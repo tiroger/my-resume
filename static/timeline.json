@@ -1,56 +1,74 @@
 [
-{
+   {
     "startdate": "1999-01-31",
     "enddate": "2001-05-31",
     "title": "Bachelor of Science - Organic Chemistry | Hunter College - City University of New York",
-    "shorttitle": "BS Organic Chemistry, Hunter College",
+    "shorttitle": "Education title",
     "type": "education",
     "glyph": "education",
     "description": "<ul><li id='indent'>Synthesized and characterized theoretically significant molecules to expand our understanding of aromaticity</li></ul>"
-},
-{
-  "startdate": "2004-09-30",
+  },
+  {
+   "startdate": "2004-09-30",
+   "enddate": "2007-01-31",
+   "title": "Master of Science - Molecular Biology | Columbia University Medical Center",
+   "shorttitle": "Education title",
+   "type": "education",
+   "glyph": "education",
+   "description": "<ul><li id='indent'>Thing A</li><li>Thing B</li></ul>"
+ },
+ {
+  "startdate": "2007-02-28",
   "enddate": "2011-05-31",
-  "title": "Master of Science and PhD - Molecular Neuroscience | Columbia University Medical Center",
-  "shorttitle": "PhD Molecular Neuroscience, Columbia University",
+  "title": "PhD - Molecular Neuroscience | Columbia University Medical Center",
+  "shorttitle": "Education title",
   "type": "education",
   "glyph": "education",
-  "description": "<ul><li id='indent'>Characterized a novel role of the amyloid precursor protein (APP) in the pathogenesis of Alzheimer’s disease.</li><li id='indent'>Trained and supervised several undergraduate students.</li></ul>"
+  "description": "<ul><li id='indent'>Characterized a novel role of the amyloid precursor protein (APP) in the pathogenesis of Alzheimer’s disease.</li><li>Thing B</li></ul>"
 },
-{
+  {
     "startdate": "2011-06-30",
     "enddate": "2013-06-01",
     "title": "Postdoctoral Research Fellow | Columbia University Medical Center",
-    "shorttitle": "Postdoc, Columbia University",
+    "shorttitle": "Postdoc",
     "type": "experience",
-    "glyph": "briefcase",
+    "glyph": "star",
     "description": "<ul><li id='indent'>Investigated the role of small Rho-GTPases in Alzheimer’s disease, which have also been linked to various cancers</li><li>Contributed to a bioinformatics project for a non-biased approach to identify Alzheimer’s disease associated genes</li><li id='indent'>Generated and characterized transgenic mouse models to investigate the roles of several novel genes in driving Alzheimer’s disease pathology</li><li>Developed various gene editing tools (RNAi, viral vectors) to identify molecular pathways contributing to synaptic dysfunction</li><li>Engineered and characterized various stable cell lines</li><li>Organized journal club sessions for graduate students</li><li>Trained several undergraduate and master’s students</li></ul>"
-},
-{
+  },
+  {
     "startdate": "2013-06-30",
-    "enddate": "",
+    "enddate": "2020-05-31",
     "title": "Principal Investigator | Columbia University Medical Center",
-    "shorttitle": "Principal Investigator, Columbia University",
+    "shorttitle": "Assistant Professor",
     "type": "experience",
-    "glyph": "briefcase",
+    "glyph": "star",
     "description": "<ul><li id='indent'>Leader of a translational research program focused on identifying novel pathogenic pathways and druggable proteins involved in Alzheimer’s and Huntington’s disease</li><li>Design experiments, review and interpret data, perform quality control, and manage records</li><li>Procure and allocate resources to research projects, including equipment, supplies and funds; recruit, train and supervise staff<li>Manage daily laboratory operations, including scheduling meetings, establishing priorities and assignments, and maintaining staff morale; troubleshoot and resolve technical difficulties and documentation issues related to methods, data and GLP compliance</li><li id='indent'>Draft and review journal and grant manuscripts, SOPs, protocols, and progress reports</li><li id='indent'>Establish and maintain cross-functional institutional and international collaborations</li><li id='indent'>Serve on various advisory committees</li><li id='indent'>Conduct lectures for medical and graduate students; lead various career development workshops</li></ul>"
-},
-{
+  },
+  {
    "startdate": "2019-05-31",
-   "enddate": "2019-09-30",
+   "enddate": "2019-10-01",
    "title": "Certificate - Data Analytics and Visualization | Columbia University School of Engineering",
-   "shorttitle": "Certficate, Data Analytics, Columbia University",
+   "shorttitle": "Education title",
    "type": "other",
    "glyph": "stats",
-   "description": "<ul><li id='indent'>E.T.L (Pandas, Numpy, SciPy, BeautifulSoup, Postgres, MongDB), JavaScript, HTML/CSS</li><li>Data visualization (Matplotlib, Plotly, Leaflet, D3, Tableau)</li><li>Machine Learning (Scikit, TensorFlow)</li><li>Big Data (PySpark, EC2, AWS)</li></ul>"
-},
-{
-  "startdate": "2019-10-01",
-  "enddate": "",
-  "title": "Data Science Consultant | Analytics Intell",
-  "shorttitle": "Data Scientist",
-  "type": "experience",
-  "glyph": "briefcase",
-  "description": "<ul><li id='indent'>Provide executive leadership team with insights, analytics, reports and recommendations enabling effective strategic planning across all business units and product lines</li><li>Research and develop models to improve the quality AI user facing products</li><li>Identify, measure and recommend improvement strategies for KPIs across integrated resorts and banking sectors</li><li>Develop machine learning algorithms based on deep-dive statistical analysis and predictive data modeling for casino floor reconfiguration and staffing recommendations</ul>"
-}
+   "description": "<ul><li id='indent'>Thing A</li><li>Thing B</li><li>Thing C</li></ul>"
+ },
+ {
+   "startdate": "2019-10-01",
+   "enddate": "",
+   "title": "Data Science Consultant | Analytics Intell",
+   "shorttitle": "Data Scientist",
+   "type": "experience",
+   "glyph": "star",
+   "description": "<ul><li id='indent'>Furnish executive leadership team with insights, analytics, reports and recommendations enabling effective strategic planning across all business units, distribution channels and product lines.</li><li></li><li>Identified, measured and recommended improvement strategies for KPIs across all business areas.</li><li>Developed intricate algorithms based on deep-dive statistical analysis and predictive data modeling that were used to to deepen relationships, strengthen longevity and personalize interactions with customers.<li></li></ul>"
+ },
+  {
+   "startdate": "2020-06-01",
+   "enddate": "",
+   "title": "Assistant Director for Research Integrity and Compliance | Columbia University",
+   "shorttitle": "Research Integrity Expert",
+   "type": "experience",
+   "glyph": "star",
+   "description": "<ul><li id='indent'>Expert in research compliance. Educate faculty and staff at all levels to ensure compliance with the Conflict-of-Interest regulations and policies that are applicable to research at Columbia University.</li><li>Monitor and ensure research compliance with responsible conduct of research training requirements from funding agencies. Develop courses and webinars for faculty and post-docs. Provide resources to facilitate research in the area of compliance. Help with investigations regarding research misconduct.</li><li>Identified need for metrics to define success to measure impact of outreach initiatives and trainings. Develop outreach initiatives for in-person or virtual training in responsible conduct of research training<li><li>Provide technical assistance in evaluation of noncompliance materials including forensic analyses of images and information along with use of plagiarism software.<li></li></ul>"
+ }
 ]
