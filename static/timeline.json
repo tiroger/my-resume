@@ -51,7 +51,7 @@
    "shorttitle": "Data Scientist",
    "type": "experience",
    "glyph": "star",
-   "description": "<ul><li id='indent'>Provide executive leadership team with insights, analytics and recommendation, enabling effective strategic planning across all business units and product lines. Identify and recommend improvement strategies for key performance indicators.</li><li>Research and develop machine learning models to improve the quality of user-facing products (optimal casino slot machine placement and table game pricing recommendations; identification of casino player at high-risk of churning, recommendation engine for casino players).</li></ul>"
+   "description": "<ul><li id='indent'>Assist in the development of a state-of-the-art floor mapping and customer relationship management platform for casino operators and integrated resort managers</li><li>Perform quantitative analyses, develop mathematical models, and conduct research on improving casino floor performance</li><li>Interface with subject-matter experts in the casino industry to analyze and interpret operational and procedural information, and relay to production team to customize solutions</li><li>Key achievements: Implemented various time series forecasting methods to predict surge in customers to optimize staffing strategies; developed a recommendation engine built in python to recommend optimal slot machine placement to optimize performance, including occupancy and coin-in metrics</li></ul>"
  },
   {
    "startdate": "2020-06-01",
