@@ -24,7 +24,7 @@
   "shorttitle": "Education title",
   "type": "education",
   "glyph": "education",
-  "description": "<ul><li id='indent'>Characterized a novel role of the amyloid precursor protein (APP) in the pathogenesis of Alzheimer’s disease.</li><li>Thing B</li></ul>"
+  "description": "<ul><li id='indent'>Characterized a novel role of the amyloid precursor protein (APP) in the pathogenesis of Alzheimer's disease.</li><li>Thing B</li></ul>"
 },
   {
     "startdate": "2011-06-30",
@@ -33,7 +33,7 @@
     "shorttitle": "Postdoc",
     "type": "experience",
     "glyph": "star",
-    "description": "<ul><li id='indent'>Investigated the role of small Rho-GTPases in Alzheimer’s disease, which have also been linked to various cancers</li><li>Contributed to a bioinformatics project for a non-biased approach to identify Alzheimer’s disease associated genes</li><li id='indent'>Generated and characterized transgenic mouse models to investigate the roles of several novel genes in driving Alzheimer’s disease pathology</li><li>Developed various gene editing tools (RNAi, viral vectors) to identify molecular pathways contributing to synaptic dysfunction</li><li>Engineered and characterized various stable cell lines</li><li>Organized journal club sessions for graduate students</li><li>Trained several undergraduate and master’s students</li></ul>"
+    "description": "<ul><li id='indent'>Investigated the role of small Rho-GTPases in Alzheimer's disease, which have also been linked to various cancers</li><li>Contributed to a bioinformatics project for a non-biased approach to identify Alzheimer’s disease associated genes</li><li id='indent'>Generated and characterized transgenic mouse models to investigate the roles of several novel genes in driving Alzheimer’s disease pathology</li><li>Developed various gene editing tools (RNAi, viral vectors) to identify molecular pathways contributing to synaptic dysfunction</li><li>Engineered and characterized various stable cell lines</li><li>Organized journal club sessions for graduate students</li><li>Trained several undergraduate and master’s students</li></ul>"
   },
   {
     "startdate": "2013-06-30",

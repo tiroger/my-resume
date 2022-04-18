@@ -15,7 +15,7 @@
    "shorttitle": "PhD, Neuroscience",
    "type": "education",
    "glyph": "education",
-   "description": "<ul><li id='indent'>Characterized a novel role of the amyloid precursor protein (APP) in the pathogenesis of Alzheimer’s disease.</li><li>Trained and supervised several undergraduate students.</li></ul>"
+   "description": "<ul><li id='indent'>Characterized a novel role of the amyloid precursor protein (APP) in the pathogenesis of Alzheimer's disease.</li><li>Trained and supervised several undergraduate students.</li></ul>"
  },
   {
     "startdate": "2011-06-30",
@@ -24,7 +24,7 @@
     "shorttitle": "Postdoc",
     "type": "experience",
     "glyph": "star",
-    "description": "<ul><li id='indent'>Investigated the role of small Rho-GTPases in Alzheimer’s disease, which have also been linked to various cancers</li><li>Contributed to a bioinformatics project for a non-biased approach to identify Alzheimer’s disease associated genes</li><li id='indent'>Generated and characterized transgenic mouse models to investigate the roles of several novel genes in driving Alzheimer’s disease pathology</li><li>Developed various gene editing tools (RNAi, viral vectors) to identify molecular pathways contributing to synaptic dysfunction</li><li>Engineered and characterized various stable cell lines</li><li>Organized journal club sessions for graduate students</li><li>Trained several undergraduate and master’s students</li></ul>"
+    "description": "<ul><li id='indent'>Investigated the role of small Rho-GTPases in Alzheimer's disease, which have also been linked to various cancers</li><li>Contributed to a bioinformatics project for a non-biased approach to identify Alzheimer's disease associated genes</li><li id='indent'>Generated and characterized transgenic mouse models to investigate the roles of several novel genes in driving Alzheimer's disease pathology</li><li>Developed various gene editing tools (RNAi, viral vectors) to identify molecular pathways contributing to synaptic dysfunction</li><li>Engineered and characterized various stable cell lines</li><li>Organized journal club sessions for graduate students</li><li>Trained several undergraduate and master's students</li></ul>"
   },
   {
     "startdate": "2013-06-30",
@@ -33,7 +33,7 @@
     "shorttitle": "Assistant Professor",
     "type": "experience",
     "glyph": "star",
-    "description": "<ul><li id='indent'>Led a translational research program focused on identifying novel biomarkers and druggable proteins involved in Alzheimer’s and Huntington’s disease pathogenesis; responsible for all aspects of the execution of projects, including regulatory obligations</li><li>Identified and characterized several previously unknown genes in Alzheimer’s disease and investigated their potential as therapeutic targets</li><li>Designed experiments, reviewed, analyzed, and interpreted data, performed quality control, and managed records<li>Procured and allocated resources to research projects, including recruiting, training, and supervising staff</li><li id='indent'>Managed daily laboratory operations, including establishing priorities and assignments, managing budgets, resolving technical difficulties, and documenting issues related to methods and data</li><li id='indent'>Drafted and reviewed journal and grant manuscripts, SOPs, protocols, and progress reports</li><li id='indent'>Established and maintained cross-functional institutional and international collaborations</li><li id='indent'>Conducted lectures for medical and graduate students and led various career development workshops</li></ul>"
+    "description": "<ul><li id='indent'>Led a translational research program focused on identifying novel biomarkers and druggable proteins involved in Alzheimer's and Huntington's disease pathogenesis; responsible for all aspects of the execution of projects, including regulatory obligations</li><li>Identified and characterized several previously unknown genes in Alzheimer's disease and investigated their potential as therapeutic targets</li><li>Designed experiments, reviewed, analyzed, and interpreted data, performed quality control, and managed records<li>Procured and allocated resources to research projects, including recruiting, training, and supervising staff</li><li id='indent'>Managed daily laboratory operations, including establishing priorities and assignments, managing budgets, resolving technical difficulties, and documenting issues related to methods and data</li><li id='indent'>Drafted and reviewed journal and grant manuscripts, SOPs, protocols, and progress reports</li><li id='indent'>Established and maintained cross-functional institutional and international collaborations</li><li id='indent'>Conducted lectures for medical and graduate students and led various career development workshops</li></ul>"
   },
   {
    "startdate": "2019-05-31",
@@ -42,7 +42,7 @@
    "shorttitle": "Data Analytics Certificate",
    "type": "other",
    "glyph": "stats",
-   "description": "<ul><li id='indent'>E.T.L (Pandas, Numpy, SciPy, BeautifulSoup, Postgres, MongDB), JavaScript, HTML/CSS</li><li>Data visualization (Matplotlib, Plotly, Leaflet, D3, Tableau)</li><li>Machine Learning (Scikit, TensorFlow)</li></ul>"
+   "description": "<ul><li id='indent'>E.T.L. pipelines (Pandas, Numpy, SciPy, BeautifulSoup, Postgres, MongDB), JavaScript, HTML/CSS</li><li>Data visualization (Matplotlib, Plotly, Leaflet, D3, Tableau)</li><li>Machine Learning (Scikit, TensorFlow)</li></ul>"
  },
  {
    "startdate": "2019-10-01",
@@ -51,7 +51,7 @@
    "shorttitle": "Data Scientist",
    "type": "experience",
    "glyph": "star",
-   "description": "<ul><li>Analytics Intell</li><ul><li id='indent'>Assist in the development of a state-of-the-art floor mapping and customer relationship management platform for casino operators and integrated resort managers</li><li>Perform quantitative analyses develop mathematical models, and conduct research on improving casino floor performance</li><li>Interface with subject-matter experts in the casino industry to analyze and interpret operational and procedural information, and relay to production team to customize solutions</li><li>Key achievements: Implemented various time series forecasting methods to predict surge in customers to optimize staffing strategies; developed a recommendation engine built in python to recommend optimal slot machine placement to optimize performance, including occupancy and coin-in metrics</li></ul><li>Insight Health Analytics</li><ul><li id='indent'>Perform quantitative analyses, develop mathematical business models, and conduct research on improving patient access to specialty pharmaceutical products</li><li>Develop predictive sales and revenue forecast models for Market Access Strategy and Patient Support Services teams</li><li>Design visualizations and draft reports and presentations for clients</li></ul></ul>"
+   "description": "<ul><li>Analytics Intell</li><ul><li id='indent'>Assist in the development of a state-of-the-art floor mapping and customer relationship management platform for casino operators and integrated resort managers</li><li>Perform quantitative and qualitative analyses, develop mathematical models, and conduct research on improving casino floor performance</li><li>Interface with subject-matter experts in the casino industry to analyze and interpret operational and procedural information, and relay to production team to customize solutions</li><li>Key achievements: Implemented various time series forecasting methods to predict surge in customers to optimize staffing strategies; developed a recommendation engine built in python to recommend optimal slot machine placement to optimize performance, including occupancy and coin-in metrics</li></ul><li>Insight Health Analytics</li><ul><li id='indent'>Perform quantitative analyses, develop mathematical business models, and conduct research on improving patient access to specialty pharmaceutical products</li><li>Develop predictive sales and revenue forecast models for Market Access Strategy and Patient Support Services teams</li><li>Design visualizations and draft reports and presentations for clients</li></ul></ul>"
  },
   {
    "startdate": "2020-06-01",
@@ -60,6 +60,6 @@
    "shorttitle": "Research Integrity Officer",
    "type": "experience",
    "glyph": "star",
-   "description": "<ul><li id='indent'>Develop and provide training, education, and outreach to all researchers, including utilizing innovative efforts to communicate compliance initiatives and resources (i.e., websites, social media, newsletters, etc.)</li><li>Conduct research compliance risk assessments and continuous monitoring processes with implementation of corrective actions/improvement plans, as needed</li><li>Provide consultations to investigators for data management plans and research study design</li><li>Serve as point of contact with external regulators on research compliance matters</li><li>Facilitates inquiries, investigations and reporting concerning allegations of research misconduct</li><li>Key achievements: created new metrics to measure impact of outreach initiatives and trainings; developed an automated process to analyze images to detect potential manipulations</li></ul>"
+   "description": "<ul><li id='indent'>Develop and provide training, education, and outreach to all researchers, including utilizing innovative efforts to communicate compliance initiatives and resources (i.e., websites, social media, newsletters, etc.)</li><li>Collaborate with various stakeholders in developing new programs and initiatives focused on education and trainings for scientific rigor</li><li>Conduct research compliance risk assessments and continuous monitoring processes with implementation of corrective actions/improvement plans, as needed</li><li>Provide consultations to investigators for data management plans and research study design</li><li>Serve as point of contact with external regulators on research compliance matters</li><li>Facilitates inquiries, investigations and reporting concerning allegations of research misconduct</li><li>Key achievements: created new metrics to measure impact of outreach initiatives and trainings; developed an automated process using convolutional neural network, built in python, to process and analyze images to detect potential manipulations</li></ul>"
  }
 ]
