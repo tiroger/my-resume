@@ -47,11 +47,11 @@
  {
    "startdate": "2019-10-01",
    "enddate": "",
-   "title": "Data Science Consultant | Analytics Intell",
+   "title": "Freelance Data Scientist | Remote",
    "shorttitle": "Data Scientist",
    "type": "experience",
    "glyph": "star",
-   "description": "<ul><li id='indent'>Assist in the development of a state-of-the-art floor mapping and customer relationship management platform for casino operators and integrated resort managers</li><li>Perform quantitative analyses, develop mathematical models, and conduct research on improving casino floor performance</li><li>Interface with subject-matter experts in the casino industry to analyze and interpret operational and procedural information, and relay to production team to customize solutions</li><li>Key achievements: Implemented various time series forecasting methods to predict surge in customers to optimize staffing strategies; developed a recommendation engine built in python to recommend optimal slot machine placement to optimize performance, including occupancy and coin-in metrics</li></ul>"
+   "description": "<ul><li>Analytics Intell</li><ul><li id='indent'>Assist in the development of a state-of-the-art floor mapping and customer relationship management platform for casino operators and integrated resort managers</li><li>Perform quantitative analyses develop mathematical models, and conduct research on improving casino floor performance</li><li>Interface with subject-matter experts in the casino industry to analyze and interpret operational and procedural information, and relay to production team to customize solutions</li><li>Key achievements: Implemented various time series forecasting methods to predict surge in customers to optimize staffing strategies; developed a recommendation engine built in python to recommend optimal slot machine placement to optimize performance, including occupancy and coin-in metrics</li></ul><li>Insight Health Analytics</li><ul><li id='indent'>Perform quantitative analyses, develop mathematical business models, and conduct research on improving patient access to specialty pharmaceutical products</li><li>Develop predictive sales and revenue forecast models for Market Access Strategy and Patient Support Services teams</li><li>Design visualizations and draft reports and presentations for clients</li></ul></ul>"
  },
   {
    "startdate": "2020-06-01",
