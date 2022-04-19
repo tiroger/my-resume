@@ -60,18 +60,27 @@
 			</header>
 
 			<section>
-			<h1>ABOUT ME</h1>
-			<br>
-			<div>
-				<h2>Summary</h2>
-				<h3> I am a Neuroscientist, data wrangler and avid cyclist with 10+ years of experience spearheading research on central nervous system disorders. I have demonstrated expertise in rigorous experimental research design, data collection, statistical analyses and complex data interpretation and visualization. I am highly experienced in building and leading cross-functional teams and managing multidisciplinary projects. I have excellent interpersonal, communication and presentation skills honed through invited lectures and seminars, and preparation and publications of numerous peer-reviewed papers.</h3>
 
-				<h3> Learning is what drives me — I believe that there is always room for improvement, especially with regards to my own abilities, and I constantly seek to sharpen my skills.</h3>
-			</div>
+<!-- ABOUT ME START -->
 
-			</section>
-			<hr>
-			<section>
+	<h1>ABOUT ME</h1>
+	<br>
+	<div>
+		<h2>Summary</h2>
+		<h3> I am a Neuroscientist, data wrangler and avid cyclist with 10+ years of experience spearheading research on central nervous system disorders. I have demonstrated expertise in rigorous experimental research design, data collection, statistical analyses and complex data interpretation and visualization. I am highly experienced in building and leading cross-functional teams and managing multidisciplinary projects. I have excellent interpersonal, communication and presentation skills honed through invited lectures and seminars, and preparation and publications of numerous peer-reviewed papers.</h3>
+
+		<h3> Learning is what drives me — I believe that there is always room for improvement, especially with regards to my own abilities, and I constantly seek to sharpen my skills.</h3>
+	</div>
+
+	</section>
+
+<!-- ABOUT ME END -->
+
+	<hr>
+
+<!-- TIMELINE START -->
+
+	<section>
 		<article>
 
 			<h2>TIMELINE</h2>
@@ -81,7 +90,12 @@
 
 		</article>
 
+<!-- TIMELINE END -->
+
 				<hr>
+
+<!-- SKILLS START -->
+
 		<article>
 			<h2>SKILLS</h2>
 			<div class="container">
@@ -98,9 +112,11 @@
 				</div>
 			</div>
 
-				<div id="listofskills"><h3><i>Other skills</i></h3</div>
+			<div id="listofskills"><h3><i>Other skills</i></h3</div>
 
 		</article>
+
+<!-- SKILLS END -->
 
 			<hr>
 
@@ -110,6 +126,9 @@
 			<article>
 
 			<hr>
+
+<!-- PUBLICATIONS START -->
+
 		<article>
 			<div id="publications">
 			<h2>Select Publications</h2>
@@ -216,7 +235,13 @@
 		</div>
 		</div>
 		</article>
+
+<!-- PUBLICATIONS END -->
+
 			<hr>
+
+<!-- PORTFOLIO START -->
+
 		<article>
 			<div id="projects"></div>
 			<h2>PORTFOLIO</h2>
@@ -227,8 +252,9 @@
 				<a href="https://share.streamlit.io/tiroger/my-strava/app.py" target="_blank" rel="noopener noreferrer">
     			<img class="card-img-top" src="./static/bicycles.gif" alt="National Parks Logo"></a>
     		<div class="card-body">
-      		<h5 class="card-title">Strava Dashboard w/ Ploty and Streamlit</h5>
+      		<a href="https://share.streamlit.io/tiroger/my-strava/app.py" target="_blank" rel="noopener noreferrer"><h5 class="card-title">Strava Dashboard w/ Ploty and Streamlit</h5></a>
       		<p class="card-text collapse" id="park">The Strava Dashboard accesses data through the Strava API to offer a new insight into your activities and workouts. Its purpose is to create a personal activity heatmap (similar to the paid Strava feature for Summit members), and encompasses a greater variety of data analysis and visualization options. A full list of features is listed below:<br>
+			<br>
 			- Updated in realtime Lifetime stats<br>
 			- Summary table of all activities<br>
 			- Ride maps + stats and elevation profile-Google Elevation API<br>
@@ -242,138 +268,220 @@
       		<a href="https://github.com/tiroger/my-strava" target="_blank" rel="noopener noreferrer"><small class="text-muted">Github: github.com/tiroger/my-strava</small></a>
     		</div>
   			</div>
-				<div class="card">
-					<a href="https://healthy-heart-webapp.herokuapp.com/" target="_blank" rel="noopener noreferrer">
-						<img class="card-img-top" src="./static/heart_beating.gif" alt="beating heart"></a>
-					<div class="card-body">
-						<h5 class="card-title">Predicting Cardiovascular Disease Risk w/ Scikit-Learn</h5>
-						<p class="card-text collapse" id="heart">People with CVD or those who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or other comorbidities) need early detection and management wherein a machine learning model can be of great help.</p>
-						<p><a class="btn" data-toggle="collapse" data-target="#heart">Read More &raquo;</a></p>
-					</div>
-					<div class="card-footer">
-						<a href="https://github.com/tiroger/heart-disease" target="_blank" rel="noopener noreferrer"><small class="text-muted">Github:
-								www.github.com/tiroger/heart-disease</small></a>
-					</div>
-				</div>
 
-  		<div class="card">
+<!-- PORTFOLIO START -->
+		<!-- 1 -->  
+		<div class="card">
+			<a href="https://tiroger.github.io/nyc_rats/index.html" target="_blank" rel="noopener noreferrer">
+			<img class="card-img-top" src="./static/images/nyc_rat.gif" alt="Card image cap"></a>
+			<div class="card-body">
+				<a href="https://tiroger.github.io/nyc_rats/index.html" target="_blank" rel="noopener noreferrer"><h5 class="card-title">Analyzing NYC Rat Population w/ Tableau</h5></a>
+				<p class="card-text collapse" id="rats">Rats in New York City are prevalent, as in many densely populated areas. For a long time, the exact number of rats in New York City was unknown, and a common urban legend was that there were up to four times as many rats as people. In 2014, however, scientists more accurately measured the entire city's rat population to be approximately only 25% of the number of humans; i.e., there were approximately 2 million rats to New York's 8.4 million people at the time of the study.</br>
+				Data is from 2010-Sept 16th, 2017 and includes date, location (lat/lon), type of structure, borough, and community
+				board.
+				<br>
+				Questions<br>
+				Q1 - Which Borough and zip codes have the most rat sightings?<br>
+				Q2 - Is there a correlation with zip code population?<br>
+				Q3 - Have rat sightings increased over the years?<br>
+				Q4 - Is there a seasonal pattern to rat sightings?
+				<p><a class="btn" data-toggle="collapse" data-target="#rats">Read More &raquo;</a></p>
+
+			</div>
+			<div class="card-footer">
+				<a href="https://github.com/tiroger/nyc_rats" target="_blank" rel="noopener noreferrer"><small class="text-muted">github.com/tiroger/nyc_rats</small></a>
+			</div>
+	</div>
+
+		  <!-- 2 --> 
+		  <div class="card">
+			<a href="https://coronavirus-cases.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+				<img class="card-img-top" src="./static/coronavirus.gif" alt="coronavirus"></a>
+			<div class="card-body">
+				<a href="https://coronavirus-cases.herokuapp.com/" target="_blank" rel="noopener noreferrer"><h5 class="card-title">Visuazing the COVID-19 Pandemic w/ Plotly and Dash</h5></a>
+				<p class="card-text collapse" id="coronavirus">This dashboard was built with Plotly and Dash using data from the Johns Hopkins Center for Systems Science and Engineering (JHU/CSSE) github repository. The data is updated nightly and changes are reflected here upon app launch.</p>
+				<p><a class="btn" data-toggle="collapse" data-target="#coronavirus">Read More &raquo;</a></p>
+			</div>
+			<div class="card-footer">
+				<a href="https://github.com/tiroger/coronavirus-tracker" target="_blank" rel="noopener noreferrer"><small class="text-muted">github.com/tiroger/coronavirus-tracker</small></a>
+			</div>
+		</div>
+
+		<!-- 3 -->
+		<div class="card">
 			<a href="https://share.streamlit.io/tiroger/nyc-vehicle-collisions/main/app.py" target="_blank" rel="noopener noreferrer">
     		<img class="card-img-top" src="./static/images/accident.gif" alt="NYPD"></a>
     		<div class="card-body">
-      			<h5 class="card-title">NYC Vehicle Collisions Dashboard w/ Plotly, Folium and Streamlit</h5>
+				<a href="https://share.streamlit.io/tiroger/nyc-vehicle-collisions/main/app.py" target="_blank" rel="noopener noreferrer"><h5 class="card-title">NYC Vehicle Collisions Dashboard w/ Plotly, Folium and Streamlit</h5></a>
       			<p class="card-text collapse" id="nypd">In 2011 the New York City Council passed Local Law #12 requiring the NYPD to collect and make available to the public records of all accidents involving motor vehicles. A police report (MV104-AN) is required to be filled out for collisions where someone is injured or killed, or where there is at least $1000 worth of damage. Each report represents a unique collision and includes date and time, location (city, borough, address, zip code, latitude and longitude), number of injuries and/or deaths, contributing factors, and information about the vehicles involved. The information is available in a variety of formats, including downloadable json and csv files, and through the Socrata Open Data API.</br>
 				I used the data to identify trends and to test different hypotheses.</p>
 				<p><a class="btn" data-toggle="collapse" data-target="#nypd">Read More &raquo;</a></p>
     		</div>
     		<div class="card-footer">
-      			<a href="https://github.com/tiroger/nyc-vehicle-collisions" target="_blank" rel="noopener noreferrer"><small class="text-muted">Github: https://github.com/tiroger/nyc-vehicle-collisions</small></a>
+      			<a href="https://github.com/tiroger/nyc-vehicle-collisions" target="_blank" rel="noopener noreferrer"><small class="text-muted">github.com/tiroger/nyc-vehicle-collisions</small></a>
     		</div>
 		  </div>
 
-		  <div class="card">
-			<a href="https://coronavirus-cases.herokuapp.com/" target="_blank" rel="noopener noreferrer">
-				<img class="card-img-top" src="./static/coronavirus.gif" alt="coronavirus"></a>
+
+		<!-- 4 --> 
+		<div class="card">
+			<a href="http://www.nflplaypredictions.com/"target="_blank" rel="noopener noreferrer">
+			<img class="card-img-top" src="./static/standard-deviation.gif" alt="NFL Plays"></a>
 			<div class="card-body">
-				<h5 class="card-title">Visuazing the COVID-19 Pandemic w/ Plotly and Dash</h5>
-				<p class="card-text collapse" id="coronavirus">This dashboard was built with Plotly and Dash using data from the Johns Hopkins Center for Systems Science and Engineering (JHU/CSSE) github repository. The data is updated nightly and changes are reflected here upon app launch.</p>
-				<p><a class="btn" data-toggle="collapse" data-target="#coronavirus">Read More &raquo;</a></p>
+				<a href="http://www.nflplaypredictions.com/"target="_blank" rel="noopener noreferrer"><h5 class="card-title">A Machine Learning Approach to Predicting NFL Plays w/ Scikit-Learn</h5></a>
+				<p class="card-text collapse" id="nfl">In the National Football League (NFL), being able to accurately predict which play your oppent will call given a set of circumstances would be an invaluable tool, and teams devote many resources towards gaining insights into an opponent's tendencies on the field. One area of immense interest is assessing a team's propensity to run or pass the ball in a given situation, which for a defense can inform critical decision-making about strategy, personnel, and positioning on the field, decisions that have a profound impact on the outcome of a game.<br>
+		
+				In this project, I take a data-driven approach to classifying offensive play types and examine whether tools from
+				machine learning can offer value in characterizing offensive tendencies.</p>
+				<p><a class="btn" data-toggle="collapse" data-target="#nfl">Read More &raquo;</a></p>
 			</div>
 			<div class="card-footer">
-				<a href="https://github.com/tiroger/coronavirus-tracker" target="_blank" rel="noopener noreferrer"><small class="text-muted">Github:
-						www.github.com/tiroger/coronavirus-tracker</small></a>
+				<a href="https://github.com/tiroger/Predicting_NFL_Stats_ML" target="_blank" rel="noopener noreferrer"><small class="text-muted">github.com/tiroger/Prediciting_NFL_Stats_ML</small></a>
 			</div>
 		</div>
 
-		  <div class="card">
-					<a href="https://tiroger.github.io/nyc_rats/index.html" target="_blank" rel="noopener noreferrer">
-					<img class="card-img-top" src="./static/images/nyc_rat.gif" alt="Card image cap"></a>
-					<div class="card-body">
-						<h5 class="card-title">Analyzing NYC Rat Population w/ Tableau</h5>
-						<p class="card-text collapse" id="rats">Rats in New York City are prevalent, as in many densely populated areas. For a long time, the exact number of rats in New York City was unknown, and a common urban legend was that there were up to four times as many rats as people. In 2014, however, scientists more accurately measured the entire city's rat population to be approximately only 25% of the number of humans; i.e., there were approximately 2 million rats to New York's 8.4 million people at the time of the study.</br>
-						Data is from 2010-Sept 16th, 2017 and includes date, location (lat/lon), type of structure, borough, and community
-						board.
-						<br>
-						Questions<br>
-						Q1 - Which Borough and zip codes have the most rat sightings?<br>
-						Q2 - Is there a correlation with zip code population?<br>
-						Q3 - Have rat sightings increased over the years?<br>
-						Q4 - Is there a seasonal pattern to rat sightings?
-						<p><a class="btn" data-toggle="collapse" data-target="#rats">Read More &raquo;</a></p>
+		<!-- 5 --> 
+		<div class="card">
+			<a href="https://tiroger.github.io/Global-Earthquake-Data-Visualization/" target="_blank" rel="noopener noreferrer">
+			<img class="card-img-top" src="./static/images/earthquake.gif" alt="Earquake"></a>
+			<div class="card-body">
+				<a href="https://tiroger.github.io/Global-Earthquake-Data-Visualization/" target="_blank" rel="noopener noreferrer"><h5 class="card-title">Visualizing Worldwide Earthquakes w/ leaflet.js</h5></a>
+				<p class="card-text collapse" id="earthquake">The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
 
-					</div>
-					<div class="card-footer">
-						<a href="https://github.com/tiroger/nyc_rats" target="_blank" rel="noopener noreferrer"><small class="text-muted">Github: github.com/tiroger/nyc_rats</small></a>
-					</div>
-				</div>
+				<br>The USGS provides earthquake data in a number of different formats, updated every 5 minutes - USGS GeoJSON Feed. For
+				example, when you click on the data set 'All Earthquakes from the Past 7 Days', you are given a JSON representation of
+				that data. I used the URL of this JSON to pull in the data for visualization.
+				<br>I created a map using Leaflet that plots all of the earthquakes from the data set based on their longitude and latitude.
+				<br>- The data markers reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes
+				appear larger and darker in color.
+				<br>- It includes popups that provide additional information about the earthquake when a marker is clicked.
+				<br>- Included is a legend that provides context for your map data.
+				<br>There is also a second data set on the map that illustrates the relationship between tectonic plates and seismic
+				activity. I pulled in a second data set and visualized it along side the original set of data. Data on tectonic plates
+				can be found at https://github.com/fraxen/tectonicplates.</p>
+				<p><a class="btn" data-toggle="collapse" data-target="#earthquake">Read More &raquo;</a></p>
+			</div>
+			<div class="card-footer">
+				<a href="https://github.com/tiroger/Global-Earthquake-Data-Visualization" target="_blank" rel="noopener noreferrer"><small class="text-muted">github.com/tiroger/Global-Earthquake-Data-Visualization</small></a>
+			</div>
+		</div>
 
-			<div class="card">
-				<a href="https://tiroger.github.io/Global-Earthquake-Data-Visualization/" target="_blank" rel="noopener noreferrer">
-				<img class="card-img-top" src="./static/images/earthquake.gif" alt="Earquake"></a>
-				<div class="card-body">
-					<h5 class="card-title">Visualizing Worldwide Earthquakes w/ leaflet.js</h5>
-					<p class="card-text collapse" id="earthquake">The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
+		<!-- 3 -->
+		<div class="card">
+			<a href="https://healthy-heart-webapp.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+				<img class="card-img-top" src="./static/heart_beating.gif" alt="beating heart"></a>
+			<div class="card-body">
+				<a href="https://healthy-heart-webapp.herokuapp.com/" target="_blank" rel="noopener noreferrer"><h5 class="card-title">Predicting Cardiovascular Disease Risk w/ Scikit-Learn</h5></a>
+				<p class="card-text collapse" id="heart">People with CVD or those who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or other comorbidities) need early detection and management wherein a machine learning model can be of great help.</p>
+				<p><a class="btn" data-toggle="collapse" data-target="#heart">Read More &raquo;</a></p>
+			</div>
+			<div class="card-footer">
+				<a href="https://github.com/tiroger/heart-disease" target="_blank" rel="noopener noreferrer"><small class="text-muted">github.com/tiroger/heart-disease</small></a>
+			</div>
+		</div>
 
-					<br>The USGS provides earthquake data in a number of different formats, updated every 5 minutes - USGS GeoJSON Feed. For
-					example, when you click on the data set 'All Earthquakes from the Past 7 Days', you are given a JSON representation of
-					that data. I used the URL of this JSON to pull in the data for visualization.
 
-					<br>I created a map using Leaflet that plots all of the earthquakes from the data set based on their longitude and latitude.
+		<!-- 3, 2 -->
+		<div class="card view">
+			<a href="https://github.com/tiroger/predicting-loan-default" target="_blank" rel="noopener noreferrer">
+			<img class="card-img-top" src="./static/images/loan.gif" alt="Loan Defaults"></a>
+			<div class="card-body mask flex-center rgba-red-strong">
+				<a href="https://github.com/tiroger/predicting-loan-default" target="_blank" rel="noopener noreferrer"><h5 class="card-title">Using Machine Learning to Predict Loan Defaults</h5></a>
+				<p class="card-text collapse" id="loans">LendingClub positions itself as a social networking service and sets up opportunities for members to identify group affinities, based on a theory that borrowers are less likely to default to lenders with whom they have affinities and social relationships. It developed an algorithm called LendingMatch to identify these common relationship factors (e.g.geographic location, educational and professional background).<br>
 
-					<br>- The data markers reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes
-					appear larger and darker in color.
+				It offers the algorithm as a search tool for investors to find Notes they would like to purchase, using borrower and loan attributes such as the length of a loan term, target weighted average interest rate, borrower credit score employment tenure, home ownership status, and others. To reduce default risk, LendingClub focuses on high-credit-worthy borrowers, declining approximately 90% of the loan applications it received as of 2012 and assigning higher interest rates to riskier borrowers within its credit criteria.<br>
 
-					<br>- It includes popups that provide additional information about the earthquake when a marker is clicked.
+				Can we use Machine Learning to build a model that predicts whether a borrower will default on a loan, that matches or exceeds LendingClub's own algorithm? Can we identify the most important features that determine the lean outcome?</p>
+				</p><a class="btn" data-toggle="collapse" data-target="#loans">Read More &raquo;</a></p>
+			</div>
+			<div class="card-footer">
+				<a href="https://github.com/tiroger/predicting-loan-default" target="_blank" rel="noopener noreferrer"><small class="text-muted">github.com/tiroger/predicting-loan-default</small></a>
+			</div>
+		</div>
 
-					<br>- Included is a legend that provides context for your map data.
+		<!-- 3, 3 -->
+		<!-- <div class="card view">
+			<a href="https://github.com/tiroger/predicting-loan-default" target="_blank" rel="noopener noreferrer">
+			<img class="card-img-top" src="./static/images/loan.gif" alt="Loan Defaults"></a>
+			<div class="card-body mask flex-center rgba-red-strong">
+				<a href="https://github.com/tiroger/predicting-loan-default" target="_blank" rel="noopener noreferrer"><h5 class="card-title">Using Machine Learning to Predict Loan Defaults</h5></a>
+				<p class="card-text collapse" id="loans">LendingClub positions itself as a social networking service and sets up opportunities for members to identify group affinities, based on a theory that borrowers are less likely to default to lenders with whom they have affinities and social relationships. It developed an algorithm called LendingMatch to identify these common relationship factors (e.g.geographic location, educational and professional background).<br>
 
-					<br>There is also a second data set on the map that illustrates the relationship between tectonic plates and seismic
-					activity. I pulled in a second data set and visualized it along side the original set of data. Data on tectonic plates
-					can be found at https://github.com/fraxen/tectonicplates.</p>
-					<p><a class="btn" data-toggle="collapse" data-target="#earthquake">Read More &raquo;</a></p>
-				</div>
-				<div class="card-footer">
-					<a href="https://github.com/tiroger/Global-Earthquake-Data-Visualization" target="_blank" rel="noopener noreferrer"><small class="text-muted">Github: github.com/tiroger/Global-Earthquake-Data-Visualization</small></a>
-				</div>
-				</div>
+				It offers the algorithm as a search tool for investors to find Notes they would like to purchase, using borrower and loan attributes such as the length of a loan term, target weighted average interest rate, borrower credit score employment tenure, home ownership status, and others. To reduce default risk, LendingClub focuses on high-credit-worthy borrowers, declining approximately 90% of the loan applications it received as of 2012 and assigning higher interest rates to riskier borrowers within its credit criteria.<br>
 
-				<div class="card">
-					<a href="http://www.nflplaypredictions.com/"target="_blank" rel="noopener noreferrer">
-    				<img class="card-img-top" src="./static/standard-deviation.gif" alt="NFL Plays"></a>
-    				<div class="card-body">
-      					<h5 class="card-title">A Machine Learning Approach to Predicting NFL Plays w/ Scikit-Learn</h5>
-						<p class="card-text collapse" id="nfl">In the National Football League (NFL), being able to accurately predict which play your oppent will call given a set of circumstances would be an invaluable tool, and teams devote many resources towards gaining insights into an opponent's tendencies on the field. One area of immense interest is assessing a team's propensity to run or pass the ball in a given situation, which for a defense can inform critical decision-making about strategy, personnel, and positioning on the field, decisions that have a profound impact on the outcome of a game.
-						<br>
-						In this project, I take a data-driven approach to classifying offensive play types and examine whether tools from
-						machine learning can offer value in characterizing offensive tendencies.</p>
-						<p><a class="btn" data-toggle="collapse" data-target="#nfl">Read More &raquo;</a></p>
-    				</div>
-    				<div class="card-footer">
-      					<a href="https://github.com/tiroger/Predicting_NFL_Stats_ML" target="_blank" rel="noopener noreferrer"><small class="text-muted">Github: www.github.com/tiroger/Prediciting_NFL_Stats_ML</small></a>
-    				</div>
-  				</div>
-
-				<div class="card view">
-				<a href="https://github.com/tiroger/predicting-loan-default" target="_blank" rel="noopener noreferrer">
-				<img class="card-img-top" src="./static/images/loan.gif" alt="Loan Defaults"></a>
-				<div class="card-body mask flex-center rgba-red-strong">
-					<h5 class="card-title">Using Machine Learning to Predict Loan Defaults</h5>
-					<p class="card-text collapse" id="loans">LendingClub positions itself as a social networking service and sets up opportunities for members to identify group affinities, based on a theory that borrowers are less likely to default to lenders with whom they have affinities and social relationships. It developed an algorithm called LendingMatch to identify these common relationship factors (e.g.geographic location, educational and professional background).
-					<br>
-
-					It offers the algorithm as a search tool for investors to find Notes they would like to purchase, using borrower and loan attributes such as the length of a loan term, target weighted average interest rate, borrower credit score employment tenure, home ownership status, and others. To reduce default risk, LendingClub focuses on high-credit-worthy borrowers, declining approximately 90% of the loan applications it received as of 2012 and assigning higher interest rates to riskier borrowers within its credit criteria.<br>
-					<br>
-					<strong>Project Goal<strong>
-					<br>
-					Can we use Machine Learning to build a model that predicts whether a borrower will default on a loan, that matches or exceeds LendingClub's own algorithm? Can we identify the most important features that determine the lean outcome?</p>
-					</p><a class="btn" data-toggle="collapse" data-target="#loans">Read More &raquo;</a></p>
-				</div>
-				<div class="card-footer">
-					<a href="https://github.com/tiroger/predicting-loan-default" target="_blank" rel="noopener noreferrer"><small class="text-muted">Github: github.com/tiroger/predicting-loan-default</small></a>
-				</div>
-				</div>
-
+				Can we use Machine Learning to build a model that predicts whether a borrower will default on a loan, that matches or exceeds LendingClub's own algorithm? Can we identify the most important features that determine the lean outcome?</p>
+				</p><a class="btn" data-toggle="collapse" data-target="#loans">Read More &raquo;</a></p>
+			</div>
+			<div class="card-footer">
+				<a href="https://github.com/tiroger/predicting-loan-default" target="_blank" rel="noopener noreferrer"><small class="text-muted">github.com/tiroger/predicting-loan-default</small></a>
+			</div>
+		</div> -->
 	</div>
 
+	<div>
+		<hr>
+		<div id="onlinepresence">
+			<h2>ONLINE PRESENCE</h2>
+			<p>
+			<a href="https://github.com/tiroger" target="_blank" rel="noopener noreferrer"><img src="./static/socicon_github.svg" alt="github" width=24 height=24/></a>
+			<a href="https://www.linkedin.com/in/roger-lefort/" target="_blank" rel="noopener noreferrer"><img src="./static/socicon_linkedin.svg" alt="linkedin"  width=24 height=24/></a>
+			<a href="https://twitter.com/tiroger" target="_blank" rel="noopener noreferrer"><img src="./static/socicon_twitter.svg" alt="twitter"  width=24 height=24/></a>
+			<a href="https://orcid.org/0000-0002-8885-606X/print" target="_blank" rel="noopener noreferrer"><img src="./static/images/socicon_orcid.svg" alt="ORCID"  width=24 height=24/></a>
+			<a href="https://www.strava.com/athletes/644338" target="_blank" rel="noopener noreferrer"><img src="./static/images/socicon_strava.svg" alt="Strava"  width=24 height=24/></a>
+			<div>
+			<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://m.strava.com/athletes/644338/activity-summary/53c89f1acdf2bf69a8bc937e3793e9bfb56d64be'></iframe>
+			</div>
+			</p>
+			</div>
+		<hr>
+	</div>
+
+</article>
+
+<!-- Button to scroll to sop of page -->
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+<script>
+//Get the button
+var mybutton = document.getElementById("myBtn");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+	mybutton.style.display = "block";
+	  } else {
+	mybutton.style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+	}
+</script>
+</section>
+<footer>
+	<div>
+	<p><a href="https://twitter.com/share" class="twitter-share-button" data-via="tiroger" data-hashtags="resume">Share this resume via Twitter</a>
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></p>
+	<p><b>Copyright 2019 &copy; Roger Lefort,&nbsp;<script>
+	var username = "roger";
+	var hostname = "cyclingscientist.com";
+	var linktext = username + "@" + hostname ;
+	document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" + linktext + "</a><br/>");
+	</script></b></p>
+</div>
+</footer>
+
+</div>
+
+
+
+
+
+<!-- PORTFOLIO END -->	
 			<!-- <br> -->
 
 			<!-- <div class="card-deck">
@@ -500,26 +608,6 @@
 				</div> -->
 			<!-- </div> -->
 			</article>
-			<hr>
-
-			<div id="onlinepresence">
-			<h2>Online Presence</h2>
-			<p>
-
-			<a href="https://github.com/tiroger" target="_blank" rel="noopener noreferrer"><img src="./static/socicon_github.svg" alt="github" width=24 height=24/></a>
-			<a href="https://www.linkedin.com/in/roger-lefort/" target="_blank" rel="noopener noreferrer"><img src="./static/socicon_linkedin.svg" alt="linkedin"  width=24 height=24/></a>
-			<a href="https://twitter.com/tiroger" target="_blank" rel="noopener noreferrer"><img src="./static/socicon_twitter.svg" alt="twitter"  width=24 height=24/></a>
-			<a href="https://orcid.org/0000-0002-8885-606X/print" target="_blank" rel="noopener noreferrer"><img src="./static/images/socicon_orcid.svg" alt="ORCID"  width=24 height=24/></a>
-			<a href="https://www.strava.com/athletes/644338" target="_blank" rel="noopener noreferrer"><img src="./static/images/socicon_strava.svg" alt="Strava"  width=24 height=24/></a>
-			<div>
-			<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://m.strava.com/athletes/644338/activity-summary/53c89f1acdf2bf69a8bc937e3793e9bfb56d64be'></iframe>
-			</div>
-			
-
-			</p>
-
-			</div>
-			</article>
 
 			<!-- Button to scroll to sop of page -->
 			<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
@@ -545,7 +633,7 @@
 				}
 			</script>
 			</section>
-			<footer>
+			<!-- <footer>
 				<div>
 				<p><a href="https://twitter.com/share" class="twitter-share-button" data-via="tiroger" data-hashtags="resume">Share this resume via Twitter</a>
 				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></p>
@@ -556,7 +644,7 @@
 				document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" + linktext + "</a><br/>");
 				</script></p>
 			</div>
-			</footer>
+			</footer> -->
 
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.11/d3.min.js" charset="utf-8"></script>
 		<script src="./static/js/timeline.js" charset="utf-8"></script>
