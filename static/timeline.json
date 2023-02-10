@@ -52,14 +52,5 @@
   "type": "experience",
   "glyph": "star",
   "description": "<ul><li id='indent'>Build ETL processes (Python & SQLServer) to integrate data from multiple sources</li><li></li><li>Perform quantitative and statistical analyses (Python, PowerBI) and develop predictive revenue forecast (linear regression) models</li><li>Design visualizations (PowerPoint, Adobe Illustrator) and draft reports and presentations (PowerPoint, Excel & Tableau) for clients in biotech and integrated resorts industries<li></li><li>Design and conduct A/B testing to test various campaign strategies</li><li><b>Key Accomplishment</b>: Built an augmented RFM model (K-means) to segment casino customers into insightful buckets for targeted campaigns and to predict churn risk; improved overall campaign response from 18% to 67%</li></ul>"
-},
-//   {
-//    "startdate": "2020-06-01",
-//    "enddate": "",
-//    "title": "Assistant Director for Research Integrity and Compliance | Columbia University",
-//    "shorttitle": "Research Integrity Officer",
-//    "type": "experience",
-//    "glyph": "star",
-//    "description": "<ul><li id='indent'>Develop and provide training, education, and outreach to all researchers, including utilizing innovative efforts to communicate compliance initiatives and resources (i.e., websites, social media, newsletters, etc.)</li><li>Collaborate with various stakeholders in developing new programs and initiatives focused on education and trainings for scientific rigor</li><li>Conduct research compliance risk assessments and continuous monitoring processes with implementation of corrective actions/improvement plans, as needed</li><li>Provide consultations to investigators for data management plans and research study design</li><li>Serve as point of contact with external regulators on research compliance matters</li><li>Facilitates inquiries, investigations and reporting concerning allegations of research misconduct</li><li>Key achievements: created new metrics to measure impact of outreach initiatives and trainings; developed an automated process using convolutional neural network, built in python, to process and analyze images to detect potential manipulations</li></ul>"
-//  }
+}
 ]
