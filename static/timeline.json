@@ -1,3 +1,5 @@
+// EDIT THIS FILE
+
 [
    {
     "startdate": "1999-01-31",
@@ -33,7 +35,7 @@
     "shorttitle": "Assistant Professor",
     "type": "experience",
     "glyph": "star",
-    "description": "<ul><li id='indent'>Led a translational research program focused on identifying novel biomarkers and druggable proteins involved in Alzheimer's and Huntington's disease pathogenesis; responsible for all aspects of the execution of projects, including regulatory obligations</li><li>Identified and characterized several previously unknown genes in Alzheimer's disease and investigated their potential as therapeutic targets</li><li>Designed experiments, reviewed, analyzed, and interpreted data, performed quality control, and managed records<li>Procured and allocated resources to research projects, including recruiting, training, and supervising staff</li><li id='indent'>Managed daily laboratory operations, including establishing priorities and assignments, managing budgets, resolving technical difficulties, and documenting issues related to methods and data</li><li id='indent'>Drafted and reviewed journal and grant manuscripts, SOPs, protocols, and progress reports</li><li id='indent'>Established and maintained cross-functional institutional and international collaborations</li><li id='indent'>Conducted lectures for medical and graduate students and led various career development workshops</li></ul>"
+    "description": "<ul><li id='indent'>Led a translational research program focused on identifying novel biomarkers and druggable proteins involved in neurodegeneration</li><li>Managed team and daily laboratory operations, including procuring and allocating resources to research projects, recruiting, training and supervising staff, and data management</li><li>Designed experiments, reviewed, analyzed, and interpreted data, performed quality control, and managed records<li>Drafted and reviewed journal and grant manuscripts, SOPs, protocols, and progress reports</li><<li id='indent'>Drafted and reviewed journal and grant manuscripts, SOPs, protocols, and progress reports</li><li id='indent'>Established and maintained cross-functional institutional and international collaborations</li><li id='indent'>Conducted lectures and career development workshops</li></ul>"
   },
   {
    "startdate": "2019-05-31",
@@ -42,7 +44,7 @@
    "shorttitle": "Data Analytics Certificate",
    "type": "other",
    "glyph": "stats",
-   "description": "<ul><li id='indent'>E.T.L. pipelines (Pandas, Numpy, SciPy, BeautifulSoup, Postgres, MongDB), JavaScript, HTML/CSS</li><li>Data visualization (Matplotlib, Plotly, Leaflet, D3, Tableau)</li><li>Machine Learning (Scikit, TensorFlow)</li></ul>"
+   "description": "<ul><li id='indent'>ETL pipelines (Pandas, Numpy, SciPy, BeautifulSoup, Postgres, MongDB), JavaScript, HTML/CSS</li><li>Data visualization (Matplotlib, Plotly, Leaflet, D3, Tableau)</li><li>Machine Learning (Scikit, Keras)</li></ul>"
  },
  {
   "startdate": "2020-06-30",
