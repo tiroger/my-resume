@@ -45,12 +45,12 @@
    "description": "<ul><li id='indent'>E.T.L. pipelines (Pandas, Numpy, SciPy, BeautifulSoup, Postgres, MongDB), JavaScript, HTML/CSS</li><li>Data visualization (Matplotlib, Plotly, Leaflet, D3, Tableau)</li><li>Machine Learning (Scikit, TensorFlow)</li></ul>"
  },
  {
-  "startdate": "2020-06-01",
+  "startdate": "2020-06-30",
   "enddate": "",
   "title": "Data Scientist | Analytics Intell",
   "shorttitle": "Data Scientist",
   "type": "experience",
   "glyph": "star",
-  "description": "<ul><li id='indent'>Build ETL processes (Python & SQLServer) to integrate data from multiple sources</li><li></li><li>Perform quantitative and statistical analyses (Python, PowerBI) and develop predictive revenue forecast (linear regression) models</li><li>Design visualizations (PowerPoint, Adobe Illustrator) and draft reports and presentations (PowerPoint, Excel & Tableau) for clients in biotech and integrated resorts industries<li></li><li>Design and conduct A/B testing to test various campaign strategies</li><li><b>Key Accomplishment</b>: Built an augmented RFM model (K-means) to segment casino customers into insightful buckets for targeted campaigns and to predict churn risk; improved overall campaign response from 18% to 67%</li></ul>"
+  "description": "<ul><li id='indent'>Build ETL processes (Python & SQLServer) to integrate data from multiple sources</li><li>Perform quantitative and statistical analyses (Python, PowerBI) and develop predictive revenue forecast (linear regression) models</li><li>Design visualizations (PowerPoint, Adobe Illustrator) and draft reports and presentations (PowerPoint, Excel & Tableau) for clients in biotech and integrated resorts industries</li><li>Design and conduct A/B testing to test various campaign strategies</li><li><b>Key Accomplishment</b>: Built an augmented RFM model (K-means) to segment casino customers into insightful buckets for targeted campaigns and to predict churn risk; improved overall campaign response from 18% to 67%</li></ul>"
 }
 ]
