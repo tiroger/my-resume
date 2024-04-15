@@ -1,22 +1,22 @@
 [
-   {
+  {
     "startdate": "1999-01-31",
     "enddate": "2001-05-31",
     "title": "Bachelor of Science - Organic Chemistry | Hunter College - City University of New York",
     "shorttitle": "BS, Chemistry",
     "type": "education",
     "glyph": "education",
-    "description": "<ul><li id='indent'>Synthesized and characterized theoretically significant molecules to expand our understanding of aromaticity</li></ul>"
+    "description": "<ul><li id='indent'>Synthesized and characterized theoretically significant molecules to expand our understanding of aromaticity.</li></ul>"
   },
   {
-   "startdate": "2004-09-30",
-   "enddate": "2011-05-31",
-   "title": "MS and PhD - Molecular Neuroscience | Columbia University Irving Medical Center",
-   "shorttitle": "PhD, Neuroscience",
-   "type": "education",
-   "glyph": "education",
-   "description": "<ul><li id='indent'>Characterized a novel role of the amyloid precursor protein (APP) in the pathogenesis of Alzheimer's disease.</li><li>Trained and supervised several undergraduate students.</li></ul>"
- },
+    "startdate": "2004-09-30",
+    "enddate": "2011-05-31",
+    "title": "MS and PhD - Pathobiology and Molecular Medicine | Columbia University Irving Medical Center",
+    "shorttitle": "PhD, Neuroscience",
+    "type": "education",
+    "glyph": "education",
+    "description": "<ul><li id='indent'>Characterized a novel role of the amyloid precursor protein (APP) in the pathogenesis of Alzheimer's disease.</li><li>Trained and supervised several undergraduate students.</li></ul>"
+  },
   {
     "startdate": "2011-06-30",
     "enddate": "2013-06-01",
@@ -24,7 +24,7 @@
     "shorttitle": "Postdoc",
     "type": "experience",
     "glyph": "star",
-    "description": "<ul><li id='indent'>Investigated the role of small Rho-GTPases in Alzheimer's disease, which have also been linked to various cancers</li><li>Contributed to a bioinformatics project for a non-biased approach to identify Alzheimer's disease associated genes</li><li id='indent'>Generated and characterized transgenic mouse models to investigate the roles of several novel genes in driving Alzheimer's disease pathology</li><li>Developed various gene editing tools (RNAi, viral vectors) to identify molecular pathways contributing to synaptic dysfunction</li><li>Engineered and characterized various stable cell lines</li><li>Organized journal club sessions for graduate students</li><li>Trained several undergraduate and master's students</li></ul>"
+    "description": "<ul><li id='indent'>Investigated the role of small Rho-GTPases in Alzheimer's disease, which have also been linked to various cancers.</li><li>Contributed to a bioinformatics project for a non-biased approach to identify Alzheimer's disease associated genes.</li><li id='indent'>Generated and characterized transgenic mouse models to investigate the roles of several novel genes in driving Alzheimer's disease pathology.</li><li>Developed various gene editing tools (RNAi, viral vectors) to identify molecular pathways contributing to synaptic dysfunction.</li><li>Organized journal club sessions for graduate students.</li><li>Trained several undergraduate and master's students.</li></ul>"
   },
   {
     "startdate": "2013-06-30",
@@ -33,24 +33,34 @@
     "shorttitle": "Assistant Professor",
     "type": "experience",
     "glyph": "star",
-    "description": "<ul><li id='indent'>Led a translational research program focused on identifying novel biomarkers and druggable proteins involved in neurodegeneration</li><li>Managed team and daily laboratory operations, including procuring and allocating resources to research projects, recruiting, training and supervising staff, and data management</li><li>Designed experiments, reviewed, analyzed, and interpreted data, performed quality control, and managed records</li><li id='indent'>Drafted and reviewed journal and grant manuscripts, SOPs, protocols, and progress reports</li><li id='indent'>Drafted and reviewed journal and grant manuscripts, SOPs, protocols, and progress reports</li><li id='indent'>Established and maintained cross-functional institutional and international collaborations</li><li id='indent'>Conducted lectures and career development workshops</li></ul>"
+    "description": "<ul><li id='indent'>Led a translational research program focused on identifying novel biomarkers and druggable proteins involved in neurodegeneration.</li><li>Managed team and daily laboratory operations, including procuring and allocating resources to research projects, recruiting, training and supervising staff, and data management.</li><li>Designed experiments, reviewed, analyzed, and interpreted data, performed quality control, and managed records.</li><li id='indent'>Established and maintained cross-functional institutional and international collaborations.</li><li id='indent'>Conducted lectures and career development workshops.</li></ul>"
   },
   {
-   "startdate": "2019-05-31",
-   "enddate": "2019-10-01",
-   "title": "Certificate - Data Analytics and Visualization | Columbia University School of Engineering",
-   "shorttitle": "Data Analytics Certificate",
-   "type": "other",
-   "glyph": "stats",
-   "description": "<ul><li id='indent'>E.T.L. pipelines (Pandas, Numpy, SciPy, BeautifulSoup, Postgres, MongDB), JavaScript, HTML/CSS</li><li>Data visualization (Matplotlib, Plotly, Leaflet, D3, Tableau)</li><li>Machine Learning (Scikit, TensorFlow)</li></ul>"
- },
- {
-   "startdate": "2019-10-01",
-   "enddate": "",
-   "title": "Data Scientist | Analytics Intell",
-   "shorttitle": "Data Scientist",
-   "type": "experience",
-   "glyph": "star",
-   "description": "<ul><li id='indent'>Build ETL processes (Python & SQLServer) to integrate data from multiple sources</li><li>Perform quantitative and statistical analyses (Python, PowerBI), and develop predictive models</li><li>Design A/B testing to test and refine machine learning models</li><li>Design visualizations (PowerPoint, Adobe Illustrator, Python) and draft reports and presentations (PowerPoint, Excel & Tableau) for clients in biotech and integrated resorts industries</li><li>Recommend new visualization styles to improve dashboard functionality and usability</li><li id='indent'><b>Key Accomplishment<b>: Built an augmented RFM model (K-means) to segment casino customers into insightful buckets for targeted campaigns and to predict churn risk; improved overall campaign response from 18% to 67%</li></ul>"
- }
+    "startdate": "2019-05-31",
+    "enddate": "2019-10-01",
+    "title": "Certificate - Data Analytics and Visualization | Columbia University School of Engineering",
+    "shorttitle": "Data Analytics Certificate",
+    "type": "other",
+    "glyph": "stats",
+    "description": "<ul><li id='indent'>Acquired skills in ETL pipelines (Pandas, Numpy, SciPy, BeautifulSoup, Postgres, MongoDB), JavaScript, HTML/CSS.</li><li>Data visualization (Matplotlib, Plotly, Leaflet, D3, Tableau).</li><li>Machine Learning (Scikit-learn, TensorFlow).</li></ul>"
+  },
+  {
+    "startdate": "2020-06-01",
+    "enddate": "2020-12-31",
+    "title": "Data Analyst Contractor | Insight Health Analytics",
+    "shorttitle": "Data Analyst",
+    "type": "experience",
+    "glyph": "star",
+    "description": "<ul><li id='indent'>Performed quantitative analyses (PowerBI and R), developed mathematical business models, and conducted research on improving patient access to specialty pharmaceutical products; Data sources: IQVIA and internal client data.</li><li>Developed predictive sales and revenue forecast models for Market Access Strategy and Patient Support Services teams.</li><li>Designed visualizations and draft reports and presentations for senior management and key business partners.</li></ul>"
+  },
+  {
+    "startdate": "2021-01-01",
+    "enddate": "",
+    "title": "Data Scientist | Analytics Intell",
+    "shorttitle": "Data Scientist",
+    "type": "experience",
+    "glyph": "star",
+    "description": "<ul><li id='indent'>Collaborate with customer development and marketing teams, and various stakeholders to pinpoint opportunities for leveraging statistical modeling and machine learning techniques to optimize marketing strategies and drive customer engagement.</li><li>Lead, design, and implement marketing experiments, testing hypotheses to validate results and inform data-driven business strategies.</li><li>Identify essential data requirements, accessing both internal and external data sources to gather comprehensive datasets vital for in-depth analysis and insight generation.</li><li>Coordinate closely with data engineering teams to support efficient data collection, integration, and storage, ensuring seamless data availability for advanced analytics.</li><li>Draft and present detailed reports to monitor the effectiveness of marketing campaigns, providing crucial insights to guide marketing and reinvestment decisions.</li><li>Implement critical enhancements and fixes to decision systems and statistical models, continuously improving the accuracy and reliability of predictive models and decision-making tools.</li><li><i>Lead Gaming Industry Product(s) // (1) Implementation of unsupervised learning and Bayesian statistical models to maximize player reinvestment strategies; deployed as a web app (Python, SQLServer, AWS, Docker & Streamlit). (2) Application of linear programming to recommend optimal slot machine mix (Python).</i></li></ul>"
+  }
+  
 ]
