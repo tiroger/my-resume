@@ -20,20 +20,21 @@
   {
     "startdate": "2011-06-30",
     "enddate": "2013-06-01",
-    "title": "Postdoctoral Research Fellow | Columbia University Irving Medical Center",
-    "shorttitle": "Postdoc",
+    "title": "Post-Doctoral Research Scientist | Columbia University Irving Medical Center",
+    "shorttitle": "Postdoctoral Researcher",
     "type": "experience",
     "glyph": "star",
-    "description": "<ul><li id='indent'>Investigated the role of small Rho-GTPases in Alzheimer's disease, which have also been linked to various cancers.</li><li>Contributed to a bioinformatics project for a non-biased approach to identify Alzheimer's disease associated genes.</li><li id='indent'>Generated and characterized transgenic mouse models to investigate the roles of several novel genes in driving Alzheimer's disease pathology.</li><li>Developed various gene editing tools (RNAi, viral vectors) to identify molecular pathways contributing to synaptic dysfunction.</li><li>Organized journal club sessions for graduate students.</li><li>Trained several undergraduate and master's students.</li></ul>"
-  },
+    "description": "<ul><li id='indent'>Generated and characterized transgenic mouse models to investigate the roles of several novel biomarkers in driving Alzheimer’s disease pathology; developed various gene editing tools (RNAi, viral vectors) to identify molecular pathways contributing to synaptic dysfunction.</li><li>Co-led a novel bioinformatics project for a non-biased approach to identify Alzheimer’s disease associated genes.</li></ul>"
+  }
+,
   {
     "startdate": "2013-06-30",
     "enddate": "2020-05-31",
     "title": "Principal Investigator | Columbia University Irving Medical Center",
-    "shorttitle": "Assistant Professor",
+    "shorttitle": "Principal Investigator",
     "type": "experience",
     "glyph": "star",
-    "description": "<ul><li id='indent'>Led a translational research program focused on identifying novel biomarkers and druggable proteins involved in neurodegeneration.</li><li>Managed team and daily laboratory operations, including procuring and allocating resources to research projects, recruiting, training and supervising staff, and data management.</li><li>Designed experiments, reviewed, analyzed, and interpreted data, performed quality control, and managed records.</li><li id='indent'>Established and maintained cross-functional institutional and international collaborations.</li><li id='indent'>Conducted lectures and career development workshops.</li></ul>"
+    "description": "<ul><li id='indent'>Led a translational research program focused on identifying novel biomarkers and druggable proteins involved in Alzheimer's and Huntington's disease pathogenesis; responsible for all aspects of the execution of projects, including regulatory obligations.</li><li>Managed team (5 members) and daily laboratory operations: procured and allocated resources to research projects, including recruiting, training, and supervising, resolving technical difficulties, and documenting issues related to methods and data.</li><li>Designed experiments, reviewed, analyzed, and interpreted data, performed quality control, and managed records (R, AWS).</li><li>Drafted and reviewed journal and grant manuscripts, SOPs, protocols, and progress reports.</li><li>Conducted lectures for medical and graduate students and led various career development workshops and coding bootcamps (Python).</li></ul>"
   },
   {
     "startdate": "2019-05-31",
